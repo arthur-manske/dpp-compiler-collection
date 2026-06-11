@@ -1,0 +1,6 @@
+{
+  "description": {
+    "en": "An experimental C compiler that translates C source code to LLVM IR, focused on syntax analysis, efficient intermediate code generation, and extensibility. Currently in the early stages of self-hosting, with partial preprocessor support and planned evolution toward C23 compatibility and GCC/Clang toolchain integration.",
+    "pt": "Compilador C experimental que traduz código C para LLVM IR, focado em análise de sintaxe, geração intermediária eficiente e extensibilidade. Em estágio inicial de self-hosting, com suporte parcial ao pré-processamento e evolução planejada para compatibilidade com C23 e toolchains GCC/Clang."
+  }
+}
